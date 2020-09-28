@@ -37,9 +37,11 @@ Running
 * libxcb
 
 <code>
-    sudo apt install libdrm-dev libncurses5-dev libpciaccess-dev libxcb-dri3-dev libxcb-dri2-0-dev
+    sudo apt install libdrm-dev libncurses5-dev libpciaccess-dev libxcb-dri3-dev libxcb-dri2-0-dev 
+</code><br>    
+<code>
     sudo apt install libxcb-randr0-dev libxcb-xtest0-dev libxcb-xinerama0-dev libxcb-shape0-dev libxcb-xkb-dev
-</code>
+</code><br>
 
 
 Simply start radeontop and it auto-selects the first supported GPU:
